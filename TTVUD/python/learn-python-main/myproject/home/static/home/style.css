@@ -1,0 +1,70 @@
+
+
+*{
+    margin: 0;
+}
+
+body{
+    background-size: cover;
+    background-image: url(./plan-page.jpg);
+	 font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{ 
+    width: 62%;
+    height: 62%;
+    display: flex;
+    font-size: 16px;
+    margin: 133px auto;
+}
+
+
+.box {
+    text-align: center;
+    Background: #262626;
+    Display: inline-block;
+    Margin: 80px 20px 0 20px;
+    Border: 5px solid #424242;
+    Color: #a1a1a1;
+    padding: 10px;
+}
+
+.box__header {
+   font-size: 20px;
+   margin: 10px 10px;
+   color: #fff;
+}
+
+.box__body {
+   font-size: 15px;
+}
+
+.box__money{
+   color:  #27dcc4;
+   margin: 30px 0px;
+  
+}
+
+ul{
+    padding-left: 0px;
+}
+
+li{
+    list-style-type: none;
+    line-height: 30px;
+    margin-left: 0px;
+}
+
+.box-footer{
+    font-size: 18px;
+    padding: 13px 25px;
+	Background: #27dcc4;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    color: #fff;
+}
+
+.box-footer:hover{
+   background-color: #a1a1a1;
+}

@@ -1,0 +1,34 @@
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\bin\Debug\net6.0-windows\OpenFile.exe
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\bin\Debug\net6.0-windows\OpenFile.deps.json
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\bin\Debug\net6.0-windows\OpenFile.runtimeconfig.json
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\bin\Debug\net6.0-windows\OpenFile.dll
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\bin\Debug\net6.0-windows\OpenFile.pdb
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.csproj.AssemblyReference.cache
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.Form1.resources
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.csproj.GenerateResource.cache
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.AssemblyInfoInputs.cache
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.AssemblyInfo.cs
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.csproj.CoreCompileInputs.cache
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.dll
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\refint\OpenFile.dll
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.pdb
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.genruntimeconfig.cache
+D:\Workspace\Languages\C#\Study\OpenFile\OpenFile\obj\Debug\net6.0-windows\ref\OpenFile.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\bin\Debug\net6.0-windows\OpenFile.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\bin\Debug\net6.0-windows\OpenFile.deps.json
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\bin\Debug\net6.0-windows\OpenFile.runtimeconfig.json
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\bin\Debug\net6.0-windows\OpenFile.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\bin\Debug\net6.0-windows\OpenFile.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.Form1.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.AssemblyInfoInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.AssemblyInfo.cs
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\refint\OpenFile.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\OpenFile.genruntimeconfig.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\OpenFile\OpenFile\obj\Debug\net6.0-windows\ref\OpenFile.dll

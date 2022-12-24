@@ -1,0 +1,16 @@
+G:\nam_3_ki1\lapTrinhTrucQuan\BTbuoi3\bin\Debug\BTbuoi3.exe.config
+G:\nam_3_ki1\lapTrinhTrucQuan\BTbuoi3\bin\Debug\BTbuoi3.exe
+G:\nam_3_ki1\lapTrinhTrucQuan\BTbuoi3\bin\Debug\BTbuoi3.pdb
+G:\nam_3_ki1\lapTrinhTrucQuan\BTbuoi3\obj\Debug\BTbuoi3.csproj.AssemblyReference.cache
+G:\nam_3_ki1\lapTrinhTrucQuan\BTbuoi3\obj\Debug\BTbuoi3.csproj.SuggestedBindingRedirects.cache
+G:\nam_3_ki1\lapTrinhTrucQuan\BTbuoi3\obj\Debug\BTbuoi3.csproj.CoreCompileInputs.cache
+G:\nam_3_ki1\lapTrinhTrucQuan\BTbuoi3\obj\Debug\BTbuoi3.exe
+G:\nam_3_ki1\lapTrinhTrucQuan\BTbuoi3\obj\Debug\BTbuoi3.pdb
+C:\Users\DELL\Downloads\BaiTapBuoi3\PhanC\bin\Debug\BTbuoi3.exe.config
+C:\Users\DELL\Downloads\BaiTapBuoi3\PhanC\bin\Debug\BTbuoi3.exe
+C:\Users\DELL\Downloads\BaiTapBuoi3\PhanC\bin\Debug\BTbuoi3.pdb
+C:\Users\DELL\Downloads\BaiTapBuoi3\PhanC\obj\Debug\BTbuoi3.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\BaiTapBuoi3\PhanC\obj\Debug\BTbuoi3.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\BaiTapBuoi3\PhanC\obj\Debug\BTbuoi3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\BaiTapBuoi3\PhanC\obj\Debug\BTbuoi3.exe
+C:\Users\DELL\Downloads\BaiTapBuoi3\PhanC\obj\Debug\BTbuoi3.pdb

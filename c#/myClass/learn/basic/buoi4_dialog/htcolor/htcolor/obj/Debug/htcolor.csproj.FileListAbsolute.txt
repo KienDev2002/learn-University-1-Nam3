@@ -1,0 +1,22 @@
+C:\Users\Admin\Documents\c#\htcolor\htcolor\bin\Debug\htcolor.exe.config
+C:\Users\Admin\Documents\c#\htcolor\htcolor\bin\Debug\htcolor.exe
+C:\Users\Admin\Documents\c#\htcolor\htcolor\bin\Debug\htcolor.pdb
+C:\Users\Admin\Documents\c#\htcolor\htcolor\obj\Debug\htcolor.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\c#\htcolor\htcolor\obj\Debug\htcolor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\c#\htcolor\htcolor\obj\Debug\htcolor.Form1.resources
+C:\Users\Admin\Documents\c#\htcolor\htcolor\obj\Debug\htcolor.Properties.Resources.resources
+C:\Users\Admin\Documents\c#\htcolor\htcolor\obj\Debug\htcolor.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\c#\htcolor\htcolor\obj\Debug\htcolor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\htcolor\htcolor\obj\Debug\htcolor.exe
+C:\Users\Admin\Documents\c#\htcolor\htcolor\obj\Debug\htcolor.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\htcolor\htcolor\bin\Debug\htcolor.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\htcolor\htcolor\bin\Debug\htcolor.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\htcolor\htcolor\bin\Debug\htcolor.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\htcolor\htcolor\obj\Debug\htcolor.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\htcolor\htcolor\obj\Debug\htcolor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\htcolor\htcolor\obj\Debug\htcolor.Form1.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\htcolor\htcolor\obj\Debug\htcolor.Properties.Resources.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\htcolor\htcolor\obj\Debug\htcolor.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\htcolor\htcolor\obj\Debug\htcolor.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\htcolor\htcolor\obj\Debug\htcolor.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\htcolor\htcolor\obj\Debug\htcolor.pdb

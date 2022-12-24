@@ -1,0 +1,34 @@
+C:\Users\pc\source\repos\DeThi1\bin\Debug\DeThi1.exe.config
+C:\Users\pc\source\repos\DeThi1\bin\Debug\DeThi1.exe
+C:\Users\pc\source\repos\DeThi1\bin\Debug\DeThi1.pdb
+C:\Users\pc\source\repos\DeThi1\obj\Debug\DeThi1.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\DeThi1\obj\Debug\DeThi1.Form1.resources
+C:\Users\pc\source\repos\DeThi1\obj\Debug\DeThi1.Properties.Resources.resources
+C:\Users\pc\source\repos\DeThi1\obj\Debug\DeThi1.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\DeThi1\obj\Debug\DeThi1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DeThi1\obj\Debug\DeThi1.exe
+C:\Users\pc\source\repos\DeThi1\obj\Debug\DeThi1.pdb
+C:\Users\pc\source\repos\DeThi1\obj\Debug\DeThi1.csproj.ResolveComReference.cache
+D:\CNTT4K58 nam3\taiLieuNam3_xin\DeThi1\bin\Debug\DeThi1.exe.config
+D:\CNTT4K58 nam3\taiLieuNam3_xin\DeThi1\bin\Debug\DeThi1.exe
+D:\CNTT4K58 nam3\taiLieuNam3_xin\DeThi1\bin\Debug\DeThi1.pdb
+D:\CNTT4K58 nam3\taiLieuNam3_xin\DeThi1\obj\Debug\DeThi1.csprojAssemblyReference.cache
+D:\CNTT4K58 nam3\taiLieuNam3_xin\DeThi1\obj\Debug\DeThi1.csproj.ResolveComReference.cache
+D:\CNTT4K58 nam3\taiLieuNam3_xin\DeThi1\obj\Debug\DeThi1.Form1.resources
+D:\CNTT4K58 nam3\taiLieuNam3_xin\DeThi1\obj\Debug\DeThi1.Properties.Resources.resources
+D:\CNTT4K58 nam3\taiLieuNam3_xin\DeThi1\obj\Debug\DeThi1.csproj.GenerateResource.cache
+D:\CNTT4K58 nam3\taiLieuNam3_xin\DeThi1\obj\Debug\DeThi1.csproj.CoreCompileInputs.cache
+D:\CNTT4K58 nam3\taiLieuNam3_xin\DeThi1\obj\Debug\DeThi1.exe
+D:\CNTT4K58 nam3\taiLieuNam3_xin\DeThi1\obj\Debug\DeThi1.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\bin\Debug\DeThi1.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\bin\Debug\DeThi1.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\bin\Debug\DeThi1.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\obj\Debug\DeThi1.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\obj\Debug\DeThi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\obj\Debug\DeThi1.csproj.ResolveComReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\obj\Debug\DeThi1.Form1.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\obj\Debug\DeThi1.Properties.Resources.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\obj\Debug\DeThi1.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\obj\Debug\DeThi1.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\obj\Debug\DeThi1.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\Nam 3C#\DeThi1\obj\Debug\DeThi1.pdb

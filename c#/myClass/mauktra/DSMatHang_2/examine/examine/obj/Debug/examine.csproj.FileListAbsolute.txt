@@ -1,0 +1,51 @@
+C:\Users\chopp\source\repos\examine\examine\bin\Debug\examine.exe.config
+C:\Users\chopp\source\repos\examine\examine\bin\Debug\examine.exe
+C:\Users\chopp\source\repos\examine\examine\bin\Debug\examine.pdb
+C:\Users\chopp\source\repos\examine\examine\obj\Debug\examine.csprojAssemblyReference.cache
+C:\Users\chopp\source\repos\examine\examine\obj\Debug\examine.Form1.resources
+C:\Users\chopp\source\repos\examine\examine\obj\Debug\examine.Properties.Resources.resources
+C:\Users\chopp\source\repos\examine\examine\obj\Debug\examine.csproj.GenerateResource.cache
+C:\Users\chopp\source\repos\examine\examine\obj\Debug\examine.csproj.CoreCompileInputs.cache
+C:\Users\chopp\source\repos\examine\examine\obj\Debug\examine.exe
+C:\Users\chopp\source\repos\examine\examine\obj\Debug\examine.pdb
+C:\Users\chopp\source\repos\DaoNhuAnh_CNTT4K58_171202682\examine\examine\bin\Debug\examine.exe.config
+C:\Users\chopp\source\repos\DaoNhuAnh_CNTT4K58_171202682\examine\examine\bin\Debug\examine.exe
+C:\Users\chopp\source\repos\DaoNhuAnh_CNTT4K58_171202682\examine\examine\bin\Debug\examine.pdb
+C:\Users\chopp\source\repos\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.csprojAssemblyReference.cache
+C:\Users\chopp\source\repos\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.Form1.resources
+C:\Users\chopp\source\repos\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.Properties.Resources.resources
+C:\Users\chopp\source\repos\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.csproj.GenerateResource.cache
+C:\Users\chopp\source\repos\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.csproj.CoreCompileInputs.cache
+C:\Users\chopp\source\repos\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.exe
+C:\Users\chopp\source\repos\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.pdb
+F:\CNTT4K58\test3CNTT4\DaoNhuAnh_CNTT4K58_171202682\examine\examine\bin\Debug\examine.exe.config
+F:\CNTT4K58\test3CNTT4\DaoNhuAnh_CNTT4K58_171202682\examine\examine\bin\Debug\examine.exe
+F:\CNTT4K58\test3CNTT4\DaoNhuAnh_CNTT4K58_171202682\examine\examine\bin\Debug\examine.pdb
+F:\CNTT4K58\test3CNTT4\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.csprojAssemblyReference.cache
+F:\CNTT4K58\test3CNTT4\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.Form1.resources
+F:\CNTT4K58\test3CNTT4\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.Properties.Resources.resources
+F:\CNTT4K58\test3CNTT4\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.csproj.GenerateResource.cache
+F:\CNTT4K58\test3CNTT4\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.csproj.CoreCompileInputs.cache
+F:\CNTT4K58\test3CNTT4\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.exe
+F:\CNTT4K58\test3CNTT4\DaoNhuAnh_CNTT4K58_171202682\examine\examine\obj\Debug\examine.pdb
+D:\CNTT4K58 nam3\examine\examine\bin\Debug\examine.exe.config
+D:\CNTT4K58 nam3\examine\examine\bin\Debug\examine.exe
+D:\CNTT4K58 nam3\examine\examine\bin\Debug\examine.pdb
+D:\CNTT4K58 nam3\examine\examine\obj\Debug\examine.csprojAssemblyReference.cache
+D:\CNTT4K58 nam3\examine\examine\obj\Debug\examine.Form1.resources
+D:\CNTT4K58 nam3\examine\examine\obj\Debug\examine.Properties.Resources.resources
+D:\CNTT4K58 nam3\examine\examine\obj\Debug\examine.csproj.GenerateResource.cache
+D:\CNTT4K58 nam3\examine\examine\obj\Debug\examine.csproj.CoreCompileInputs.cache
+D:\CNTT4K58 nam3\examine\examine\obj\Debug\examine.exe
+D:\CNTT4K58 nam3\examine\examine\obj\Debug\examine.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\examine\examine\bin\Debug\examine.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\examine\examine\bin\Debug\examine.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\examine\examine\bin\Debug\examine.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\examine\examine\obj\Debug\examine.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\examine\examine\obj\Debug\examine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\examine\examine\obj\Debug\examine.Form1.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\examine\examine\obj\Debug\examine.Properties.Resources.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\examine\examine\obj\Debug\examine.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\examine\examine\obj\Debug\examine.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\examine\examine\obj\Debug\examine.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\examine\examine\obj\Debug\examine.pdb

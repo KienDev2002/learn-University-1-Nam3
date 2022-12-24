@@ -1,0 +1,33 @@
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\QLBanDienThoai\QLBanDienThoai\bin\Debug\QLBanDienThoai.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\QLBanDienThoai\QLBanDienThoai\bin\Debug\QLBanDienThoai.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\QLBanDienThoai\QLBanDienThoai\bin\Debug\QLBanDienThoai.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.Form1.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.Properties.Resources.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.pdb
+D:\Năm 3 _ kì 1\Thiết kế CSDL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\bin\Debug\QLBanDienThoai.exe.config
+D:\Năm 3 _ kì 1\Thiết kế CSDL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\bin\Debug\QLBanDienThoai.exe
+D:\Năm 3 _ kì 1\Thiết kế CSDL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\bin\Debug\QLBanDienThoai.pdb
+D:\Năm 3 _ kì 1\Thiết kế CSDL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.AssemblyReference.cache
+D:\Năm 3 _ kì 1\Thiết kế CSDL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.SuggestedBindingRedirects.cache
+D:\Năm 3 _ kì 1\Thiết kế CSDL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.Form1.resources
+D:\Năm 3 _ kì 1\Thiết kế CSDL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.Properties.Resources.resources
+D:\Năm 3 _ kì 1\Thiết kế CSDL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.GenerateResource.cache
+D:\Năm 3 _ kì 1\Thiết kế CSDL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.CoreCompileInputs.cache
+D:\Năm 3 _ kì 1\Thiết kế CSDL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.exe
+D:\Năm 3 _ kì 1\Thiết kế CSDL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\bin\Debug\QLBanDienThoai.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\bin\Debug\QLBanDienThoai.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\bin\Debug\QLBanDienThoai.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.Form1.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.Properties.Resources.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\Thiet Ke CSDL\myClass\BTL\BTL_Nhom1\QLBanDienThoai\QLBanDienThoai\QLBanDienThoai\obj\Debug\QLBanDienThoai.pdb

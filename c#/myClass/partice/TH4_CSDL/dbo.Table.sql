@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[MaSP] NVARCHAR(50) NOT NULL PRIMARY KEY, 
+    [TenSP] NVARCHAR(100) NULL, 
+    [NgaySX] DATE NULL, 
+    [NgayHH] DATE NULL, 
+    [DonGia] FLOAT NULL, 
+    [GhiChu] NVARCHAR(200) NULL
+)

@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[tblChatLieu]
+(
+	[MaCL] NVARCHAR(10) NOT NULL PRIMARY KEY, 
+    [TenCL] NVARCHAR(100) NULL
+)

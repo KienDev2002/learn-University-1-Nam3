@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai1_QLKH", "bai1_QLKH\bai1_QLKH.csproj", "{F3631E63-157F-4001-AE5E-4A535097739E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3631E63-157F-4001-AE5E-4A535097739E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3631E63-157F-4001-AE5E-4A535097739E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3631E63-157F-4001-AE5E-4A535097739E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3631E63-157F-4001-AE5E-4A535097739E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC14E30-E5AF-4EE6-874E-AD50FE032B7E}
+	EndGlobalSection
+EndGlobal

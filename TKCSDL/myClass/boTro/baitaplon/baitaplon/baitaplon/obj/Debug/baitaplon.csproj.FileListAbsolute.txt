@@ -1,0 +1,72 @@
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\bin\Debug\baitaplon.exe.config
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\bin\Debug\baitaplon.exe
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\bin\Debug\baitaplon.pdb
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\obj\Debug\baitaplon.Dangky.resources
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\obj\Debug\baitaplon.Form1.resources
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\obj\Debug\baitaplon.Properties.Resources.resources
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\obj\Debug\baitaplon.QuenMatKhau.resources
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\obj\Debug\baitaplon.exe
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\obj\Debug\baitaplon.pdb
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\bin\Debug\Database1.mdf
+C:\Users\Admin\Documents\HK1Năm3\c#\baitaplon\baitaplon\bin\Debug\Database1_log.ldf
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\bin\Debug\Database1.mdf
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\bin\Debug\Database1_log.ldf
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\bin\Debug\baitaplon.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\bin\Debug\baitaplon.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\bin\Debug\baitaplon.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.Dangky.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.Properties.Resources.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.QuenMatKhau.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.Layout.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.Match.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.Player.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.Club.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\obj\Debug\baitaplon.Login.resources
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\bin\Debug\Database1.mdf
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\bin\Debug\Database1_log.ldf
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\bin\Debug\baitaplon.exe.config
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\bin\Debug\baitaplon.exe
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\bin\Debug\baitaplon.pdb
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Club.resources
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Dangky.resources
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Layout.resources
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Login.resources
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Match.resources
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Player.resources
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Properties.Resources.resources
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.QuenMatKhau.resources
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.exe
+C:\Users\Admin\Downloads\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Debug\baitaplon.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Debug\baitaplon.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Debug\baitaplon.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Club.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Dangky.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Layout.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Login.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Match.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Player.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.Properties.Resources.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.QuenMatKhau.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Debug\baitaplon.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Debug\Model\Database1.mdf
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Debug\Model\Database1_log.ldf

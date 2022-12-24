@@ -1,0 +1,37 @@
+C:\Users\Khai Nguyen\source\repos\thithu1\thithu1\bin\Debug\DuLieu.mdf
+C:\Users\Khai Nguyen\source\repos\thithu1\thithu1\bin\Debug\DuLieu_log.ldf
+C:\Users\Khai Nguyen\source\repos\thithu1\thithu1\bin\Debug\thithu1.exe.config
+C:\Users\Khai Nguyen\source\repos\thithu1\thithu1\bin\Debug\thithu1.exe
+C:\Users\Khai Nguyen\source\repos\thithu1\thithu1\bin\Debug\thithu1.pdb
+C:\Users\Khai Nguyen\source\repos\thithu1\thithu1\obj\Debug\thithu1.csprojAssemblyReference.cache
+C:\Users\Khai Nguyen\source\repos\thithu1\thithu1\obj\Debug\thithu1.Form1.resources
+C:\Users\Khai Nguyen\source\repos\thithu1\thithu1\obj\Debug\thithu1.Properties.Resources.resources
+C:\Users\Khai Nguyen\source\repos\thithu1\thithu1\obj\Debug\thithu1.csproj.GenerateResource.cache
+C:\Users\Khai Nguyen\source\repos\thithu1\thithu1\obj\Debug\thithu1.exe
+C:\Users\Khai Nguyen\source\repos\thithu1\thithu1\obj\Debug\thithu1.pdb
+C:\Users\Thao\Desktop\thithu1\thithu1\bin\Debug\DuLieu.mdf
+C:\Users\Thao\Desktop\thithu1\thithu1\bin\Debug\DuLieu_log.ldf
+C:\Users\Thao\Desktop\thithu1\thithu1\bin\Debug\thithu1.exe.config
+C:\Users\Thao\Desktop\thithu1\thithu1\bin\Debug\thithu1.exe
+C:\Users\Thao\Desktop\thithu1\thithu1\bin\Debug\thithu1.pdb
+C:\Users\Thao\Desktop\thithu1\thithu1\obj\Debug\thithu1.csprojAssemblyReference.cache
+C:\Users\Thao\Desktop\thithu1\thithu1\obj\Debug\thithu1.Form1.resources
+C:\Users\Thao\Desktop\thithu1\thithu1\obj\Debug\thithu1.Properties.Resources.resources
+C:\Users\Thao\Desktop\thithu1\thithu1\obj\Debug\thithu1.csproj.GenerateResource.cache
+C:\Users\Thao\Desktop\thithu1\thithu1\obj\Debug\thithu1.csproj.CoreCompileInputs.cache
+C:\Users\Thao\Desktop\thithu1\thithu1\obj\Debug\thithu1.exe
+C:\Users\Thao\Desktop\thithu1\thithu1\obj\Debug\thithu1.pdb
+D:\CNTT4K58 nam3\thithu1\thithu1\bin\Debug\DuLieu.mdf
+D:\CNTT4K58 nam3\thithu1\thithu1\bin\Debug\DuLieu_log.ldf
+D:\CNTT4K58 nam3\thithu1\thithu1\bin\Debug\thithu1.exe.config
+D:\CNTT4K58 nam3\thithu1\thithu1\bin\Debug\thithu1.exe
+D:\CNTT4K58 nam3\thithu1\thithu1\bin\Debug\thithu1.pdb
+D:\CNTT4K58 nam3\thithu1\thithu1\obj\Debug\thithu1.csprojAssemblyReference.cache
+D:\CNTT4K58 nam3\thithu1\thithu1\obj\Debug\thithu1.Form1.resources
+D:\CNTT4K58 nam3\thithu1\thithu1\obj\Debug\thithu1.Properties.Resources.resources
+D:\CNTT4K58 nam3\thithu1\thithu1\obj\Debug\thithu1.csproj.GenerateResource.cache
+D:\CNTT4K58 nam3\thithu1\thithu1\obj\Debug\thithu1.csproj.CoreCompileInputs.cache
+D:\CNTT4K58 nam3\thithu1\thithu1\obj\Debug\thithu1.exe
+D:\CNTT4K58 nam3\thithu1\thithu1\obj\Debug\thithu1.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\thithu1\thithu1\obj\Debug\thithu1.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\thithu1\thithu1\obj\Debug\thithu1.pdb

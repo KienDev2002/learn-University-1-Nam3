@@ -1,0 +1,11 @@
+D:\DocC#\TH4\Chuong4Example\Chuong4Example\bin\Debug\Chuong4Example.exe.config
+D:\DocC#\TH4\Chuong4Example\Chuong4Example\bin\Debug\Chuong4Example.exe
+D:\DocC#\TH4\Chuong4Example\Chuong4Example\bin\Debug\Chuong4Example.pdb
+D:\DocC#\TH4\Chuong4Example\Chuong4Example\obj\Debug\Chuong4Example.csproj.AssemblyReference.cache
+D:\DocC#\TH4\Chuong4Example\Chuong4Example\obj\Debug\Chuong4Example.csproj.SuggestedBindingRedirects.cache
+D:\DocC#\TH4\Chuong4Example\Chuong4Example\obj\Debug\Chuong4Example.Form1.resources
+D:\DocC#\TH4\Chuong4Example\Chuong4Example\obj\Debug\Chuong4Example.Properties.Resources.resources
+D:\DocC#\TH4\Chuong4Example\Chuong4Example\obj\Debug\Chuong4Example.csproj.GenerateResource.cache
+D:\DocC#\TH4\Chuong4Example\Chuong4Example\obj\Debug\Chuong4Example.csproj.CoreCompileInputs.cache
+D:\DocC#\TH4\Chuong4Example\Chuong4Example\obj\Debug\Chuong4Example.exe
+D:\DocC#\TH4\Chuong4Example\Chuong4Example\obj\Debug\Chuong4Example.pdb

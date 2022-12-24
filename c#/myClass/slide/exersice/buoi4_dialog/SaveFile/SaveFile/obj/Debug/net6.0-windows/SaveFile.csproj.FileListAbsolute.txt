@@ -1,0 +1,34 @@
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\bin\Debug\net6.0-windows\SaveFile.exe
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\bin\Debug\net6.0-windows\SaveFile.deps.json
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\bin\Debug\net6.0-windows\SaveFile.runtimeconfig.json
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\bin\Debug\net6.0-windows\SaveFile.dll
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\bin\Debug\net6.0-windows\SaveFile.pdb
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.csproj.AssemblyReference.cache
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.Form1.resources
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.csproj.GenerateResource.cache
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.AssemblyInfoInputs.cache
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.AssemblyInfo.cs
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.csproj.CoreCompileInputs.cache
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.dll
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\refint\SaveFile.dll
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.pdb
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.genruntimeconfig.cache
+D:\Workspace\Languages\C#\Study\SaveFile\SaveFile\obj\Debug\net6.0-windows\ref\SaveFile.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\bin\Debug\net6.0-windows\SaveFile.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\bin\Debug\net6.0-windows\SaveFile.deps.json
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\bin\Debug\net6.0-windows\SaveFile.runtimeconfig.json
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\bin\Debug\net6.0-windows\SaveFile.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\bin\Debug\net6.0-windows\SaveFile.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.Form1.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.AssemblyInfoInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.AssemblyInfo.cs
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\refint\SaveFile.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\SaveFile.genruntimeconfig.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\slide\exersice\buoi4\SaveFile\SaveFile\obj\Debug\net6.0-windows\ref\SaveFile.dll

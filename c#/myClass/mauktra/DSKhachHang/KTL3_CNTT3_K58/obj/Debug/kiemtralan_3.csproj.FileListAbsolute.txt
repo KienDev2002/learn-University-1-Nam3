@@ -1,0 +1,44 @@
+C:\Users\DELL\source\repos\kiemtralan_3\kiemtralan_3\bin\Debug\kiemtralan_3.exe.config
+C:\Users\DELL\source\repos\kiemtralan_3\kiemtralan_3\bin\Debug\kiemtralan_3.exe
+C:\Users\DELL\source\repos\kiemtralan_3\kiemtralan_3\bin\Debug\kiemtralan_3.pdb
+C:\Users\DELL\source\repos\kiemtralan_3\kiemtralan_3\obj\Debug\kiemtralan_3.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\kiemtralan_3\kiemtralan_3\obj\Debug\kiemtralan_3.Properties.Resources.resources
+C:\Users\DELL\source\repos\kiemtralan_3\kiemtralan_3\obj\Debug\kiemtralan_3.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\kiemtralan_3\kiemtralan_3\obj\Debug\kiemtralan_3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\kiemtralan_3\kiemtralan_3\obj\Debug\kiemtralan_3.exe
+C:\Users\DELL\source\repos\kiemtralan_3\kiemtralan_3\obj\Debug\kiemtralan_3.pdb
+C:\Users\DELL\source\repos\kiemtralan_3\kiemtralan_3\obj\Debug\kiemtralan_3.kiemtralan3.resources
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\chutrandai171200301_CNTT3\bin\Debug\kiemtralan_3.exe.config
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\chutrandai171200301_CNTT3\bin\Debug\kiemtralan_3.exe
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\chutrandai171200301_CNTT3\bin\Debug\kiemtralan_3.pdb
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\chutrandai171200301_CNTT3\obj\Debug\kiemtralan_3.csprojAssemblyReference.cache
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\chutrandai171200301_CNTT3\obj\Debug\kiemtralan_3.kiemtralan3.resources
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\chutrandai171200301_CNTT3\obj\Debug\kiemtralan_3.Properties.Resources.resources
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\chutrandai171200301_CNTT3\obj\Debug\kiemtralan_3.csproj.GenerateResource.cache
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\chutrandai171200301_CNTT3\obj\Debug\kiemtralan_3.csproj.CoreCompileInputs.cache
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\chutrandai171200301_CNTT3\obj\Debug\kiemtralan_3.exe
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\chutrandai171200301_CNTT3\obj\Debug\kiemtralan_3.pdb
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\chutrandai171200301_CNTT3\obj\Debug\kiemtralan_3.csproj.ResolveComReference.cache
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\KTL3_CNTT3_K58\bin\Debug\kiemtralan_3.exe.config
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\KTL3_CNTT3_K58\bin\Debug\kiemtralan_3.exe
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\KTL3_CNTT3_K58\bin\Debug\kiemtralan_3.pdb
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.csprojAssemblyReference.cache
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.csproj.ResolveComReference.cache
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.kiemtralan3.resources
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.Properties.Resources.resources
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.csproj.GenerateResource.cache
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.csproj.CoreCompileInputs.cache
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.exe
+E:\Luye\ĐỀ THI LTTQ FILNAL TERM\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\bin\Debug\kiemtralan_3.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\bin\Debug\kiemtralan_3.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\bin\Debug\kiemtralan_3.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.csproj.ResolveComReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.kiemtralan3.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.Properties.Resources.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\LapTrinhTrucQuan\C#\KTL3_CNTT3_K58\obj\Debug\kiemtralan_3.pdb

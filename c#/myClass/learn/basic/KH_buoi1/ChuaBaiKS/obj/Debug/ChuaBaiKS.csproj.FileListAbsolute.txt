@@ -1,0 +1,15 @@
+G:\LLT_N02\ChuaBaiKS\bin\Debug\ChuaBaiKS.exe.config
+G:\LLT_N02\ChuaBaiKS\bin\Debug\ChuaBaiKS.exe
+G:\LLT_N02\ChuaBaiKS\bin\Debug\ChuaBaiKS.pdb
+G:\LLT_N02\ChuaBaiKS\obj\Debug\ChuaBaiKS.csproj.AssemblyReference.cache
+G:\LLT_N02\ChuaBaiKS\obj\Debug\ChuaBaiKS.csproj.CoreCompileInputs.cache
+G:\LLT_N02\ChuaBaiKS\obj\Debug\ChuaBaiKS.exe
+G:\LLT_N02\ChuaBaiKS\obj\Debug\ChuaBaiKS.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\ChuaBaiKS\bin\Debug\ChuaBaiKS.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\ChuaBaiKS\bin\Debug\ChuaBaiKS.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\ChuaBaiKS\bin\Debug\ChuaBaiKS.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\ChuaBaiKS\obj\Debug\ChuaBaiKS.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\ChuaBaiKS\obj\Debug\ChuaBaiKS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\ChuaBaiKS\obj\Debug\ChuaBaiKS.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\ChuaBaiKS\obj\Debug\ChuaBaiKS.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\ChuaBaiKS\obj\Debug\ChuaBaiKS.pdb

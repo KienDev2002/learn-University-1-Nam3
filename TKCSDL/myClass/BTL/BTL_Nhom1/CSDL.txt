@@ -1,0 +1,43 @@
+VIEW:
+--view1 liệt kê các sản phẩm đã bán được trong tháng
+--view2 liệt kê các sản phẩm đã nhập trong tháng
+--view3 Thống kê tổng doanh thu theo ngày trong tháng
+--view4 Đưa ra danh sách nhân viên(đang làm, ghi chú khác đã nghỉ)
+--view5 Đưa ra danh sách các khách hàng
+--view6 Đưa ra danh sách thông tin các sản phẩm hiện có(số lượng >0)
+--view7 Đưa ra danh sách các chức vụ
+--view8 Đưa ra danh sách các đơn đặt hàng mà khách chưa thanh toán (Đang trong thời gian chờ giao)
+
+TRIGGER:
+--trigger1: tự động cập nhật tongtien ở hoadonban,soluong ở sanpham khi thêm chitiethoadonban
+--trigger2: tự động cập nhật soluong ở sanpham,tongtien ở hoadonnhap khi thêm,sửa,xóa chitiethoadonnhap
+--trigger3: kiểm tra khi nhập mã khách hàng trong bảng hoá đơn bán thì mã khách hàng này phải có trong bảng khách hàng 
+--trigger4: khi xóa nhân viên, dùng instead of, k xóa nhân viên mà thay trạng thái ghi chú thành đã nghỉ việc
+--trigger5: Khi xóa nhà cung cấp, k xóa mà thay trạng thái đang hợp tác thành không còn hợp tác
+--triger6: thêm trường ghi chú ở sản phẩm, khi xóa 1 sản phẩm,  k xóa mà thay trạng thái thành không còn kinh doanh
+--(Note: trường ghi chú vào bảng nhân viên, bảng nhà cung cấp, bảng sản phẩm)
+
+PROCEDURE:
+--procedure1 truyền vào 1 mã khách hàng, đưa ra tổng tiền khách hàng đã mua
+--procedure2 truyền vào một mã sản phẩm, đưa ra số lượng sẵn có hiện tại
+--procedure3 truyền vào mã nhân viên, đưa ra chức vụ của nhân viên đó
+--procedure4 truyền vào địa chỉ, đưa ra số lượng nhân viên nam và số lượng nhân viên nữ
+--procedure5 truyền vào mã sản phẩm, đưa ra tên nhà cung cấp
+--procedure6 truyền vào địa chỉ, đưa ra khách hàng có địa chỉ đó
+
+FUNCTION:
+--function1 truyền vào tên khách hàng, tìm tất cả các hóa đơn của khách có tên đó(dùng like%ten%)
+--function2 truyền vào mã nhà cung cấp, đưa ra danh sách các sản phẩm đã nhập từ nhà cung cấp đó
+--function3 truyền vào mã nhân viên, đưa ra thông tin của nhân viên đó, gồm cả chức vụ
+--function4 Tìm thông tin các sản phẩm có giá rẻ(dưới 4.000.000đ)
+--function5 Đưa ra thông tin top 10 khách có tổng tiền hóa đơn cao nhất trong tháng được truyền vào
+--function6 truyền vào hãng sản xuất, mức giá, đưa ra danh sách các sản phẩm của hãng sản xuất đó và có giá <= giá truyền vào
+
+KỊCH BẢN:
+--3 kịch bản ngôn ngữ điều khiển dữ liệu
+/*Giả sử chủ cửa hàng có toàn quyền trên cơ sở dữ liệu
++chủ cửa hàng tạo cho nhân viên quản lý login, user và cấp quyền select, update, delete, và được phép phân quyền cho nhân viên khác
++Nhân viên quản lý tạo login, user cho nhân viên bán hàng, phân quyền cho nhân viên bán hàng:
+	Bảng hoadonban, chitiethoadonban, khach, dondh, chitietdondh: select, update, delete
+	Bảng sanpham: select
++Nhân viên quản lý tạo login, user và phân quyền select trên toàn cơ sở dữ liệu cho nhân viên kế toán

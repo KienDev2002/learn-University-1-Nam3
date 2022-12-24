@@ -1,0 +1,44 @@
+E:\C#\DeCongViec\DeCongViec\bin\Debug\DeCongViec.exe.config
+E:\C#\DeCongViec\DeCongViec\bin\Debug\DeCongViec.exe
+E:\C#\DeCongViec\DeCongViec\bin\Debug\DeCongViec.pdb
+E:\C#\DeCongViec\DeCongViec\bin\Debug\DevExpress.Data.v18.1.dll
+E:\C#\DeCongViec\DeCongViec\bin\Debug\DevExpress.Xpo.v18.1.dll
+E:\C#\DeCongViec\DeCongViec\bin\Debug\DevExpress.Data.v18.1.xml
+E:\C#\DeCongViec\DeCongViec\bin\Debug\DevExpress.Xpo.v18.1.xml
+E:\C#\DeCongViec\DeCongViec\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\C#\DeCongViec\DeCongViec\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\C#\DeCongViec\DeCongViec\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\C#\DeCongViec\DeCongViec\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\C#\DeCongViec\DeCongViec\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+E:\C#\DeCongViec\DeCongViec\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+E:\C#\DeCongViec\DeCongViec\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+E:\C#\DeCongViec\DeCongViec\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+E:\C#\DeCongViec\DeCongViec\obj\Debug\DeCongViec.csprojAssemblyReference.cache
+E:\C#\DeCongViec\DeCongViec\obj\Debug\DeCongViec.Form1.resources
+E:\C#\DeCongViec\DeCongViec\obj\Debug\DeCongViec.Properties.Resources.resources
+E:\C#\DeCongViec\DeCongViec\obj\Debug\DeCongViec.csproj.GenerateResource.cache
+E:\C#\DeCongViec\DeCongViec\obj\Debug\DeCongViec.csproj.CoreCompileInputs.cache
+E:\C#\DeCongViec\DeCongViec\obj\Debug\DeCongViec.csproj.CopyComplete
+E:\C#\DeCongViec\DeCongViec\obj\Debug\DeCongViec.exe
+E:\C#\DeCongViec\DeCongViec\obj\Debug\DeCongViec.pdb
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\DeCongViec.exe.config
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\DeCongViec.exe
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\DeCongViec.pdb
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\DevExpress.Data.v18.1.xml
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\DevExpress.Xpo.v18.1.xml
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\obj\Debug\DeCongViec.csprojAssemblyReference.cache
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\obj\Debug\DeCongViec.Form1.resources
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\obj\Debug\DeCongViec.Properties.Resources.resources
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\obj\Debug\DeCongViec.csproj.GenerateResource.cache
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\obj\Debug\DeCongViec.csproj.CoreCompileInputs.cache
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\obj\Debug\DeCongViec.csproj.CopyComplete
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\obj\Debug\DeCongViec.exe
+D:\CNTT4K58 nam3\DeCongViec\DeCongViec\obj\Debug\DeCongViec.pdb

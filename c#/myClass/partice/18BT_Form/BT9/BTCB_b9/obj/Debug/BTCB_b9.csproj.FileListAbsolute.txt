@@ -1,0 +1,41 @@
+C:\Users\PC\source\repos\BTCB_b9\BTCB_b9\bin\Debug\BTCB_b9.exe.config
+C:\Users\PC\source\repos\BTCB_b9\BTCB_b9\bin\Debug\BTCB_b9.exe
+C:\Users\PC\source\repos\BTCB_b9\BTCB_b9\bin\Debug\BTCB_b9.pdb
+C:\Users\PC\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.Form1.resources
+C:\Users\PC\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.Properties.Resources.resources
+C:\Users\PC\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.exe
+C:\Users\PC\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.pdb
+C:\Users\PC\Desktop\BTCB_b9\BTCB_b9\bin\Debug\BTCB_b9.exe.config
+C:\Users\PC\Desktop\BTCB_b9\BTCB_b9\bin\Debug\BTCB_b9.exe
+C:\Users\PC\Desktop\BTCB_b9\BTCB_b9\bin\Debug\BTCB_b9.pdb
+C:\Users\PC\Desktop\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.Form1.resources
+C:\Users\PC\Desktop\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.Properties.Resources.resources
+C:\Users\PC\Desktop\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.exe
+C:\Users\PC\Desktop\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.pdb
+C:\Users\chopp\source\repos\BTCB_b9\BTCB_b9\bin\Debug\BTCB_b9.exe.config
+C:\Users\chopp\source\repos\BTCB_b9\BTCB_b9\bin\Debug\BTCB_b9.exe
+C:\Users\chopp\source\repos\BTCB_b9\BTCB_b9\bin\Debug\BTCB_b9.pdb
+C:\Users\chopp\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.csprojAssemblyReference.cache
+C:\Users\chopp\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.Form1.resources
+C:\Users\chopp\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.Properties.Resources.resources
+C:\Users\chopp\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.csproj.GenerateResource.cache
+C:\Users\chopp\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.csproj.CoreCompileInputs.cache
+C:\Users\chopp\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.exe
+C:\Users\chopp\source\repos\BTCB_b9\BTCB_b9\obj\Debug\BTCB_b9.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\partice\lessonFouth\BT9\BTCB_b9\bin\Debug\BTCB_b9.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\partice\lessonFouth\BT9\BTCB_b9\bin\Debug\BTCB_b9.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\partice\lessonFouth\BT9\BTCB_b9\bin\Debug\BTCB_b9.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\partice\lessonFouth\BT9\BTCB_b9\obj\Debug\BTCB_b9.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\partice\lessonFouth\BT9\BTCB_b9\obj\Debug\BTCB_b9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\partice\lessonFouth\BT9\BTCB_b9\obj\Debug\BTCB_b9.Form1.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\partice\lessonFouth\BT9\BTCB_b9\obj\Debug\BTCB_b9.Properties.Resources.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\partice\lessonFouth\BT9\BTCB_b9\obj\Debug\BTCB_b9.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\partice\lessonFouth\BT9\BTCB_b9\obj\Debug\BTCB_b9.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\partice\lessonFouth\BT9\BTCB_b9\obj\Debug\BTCB_b9.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\partice\lessonFouth\BT9\BTCB_b9\obj\Debug\BTCB_b9.pdb

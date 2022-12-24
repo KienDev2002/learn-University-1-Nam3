@@ -1,0 +1,21 @@
+G:\LLT_N02\DeMoWinAppTuan1\bin\Debug\DeMoWinAppTuan1.exe.config
+G:\LLT_N02\DeMoWinAppTuan1\bin\Debug\DeMoWinAppTuan1.exe
+G:\LLT_N02\DeMoWinAppTuan1\bin\Debug\DeMoWinAppTuan1.pdb
+G:\LLT_N02\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.csproj.AssemblyReference.cache
+G:\LLT_N02\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.Form1.resources
+G:\LLT_N02\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.Properties.Resources.resources
+G:\LLT_N02\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.csproj.GenerateResource.cache
+G:\LLT_N02\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.csproj.CoreCompileInputs.cache
+G:\LLT_N02\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.exe
+G:\LLT_N02\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\DeMoWinAppTuan1\bin\Debug\DeMoWinAppTuan1.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\DeMoWinAppTuan1\bin\Debug\DeMoWinAppTuan1.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\DeMoWinAppTuan1\bin\Debug\DeMoWinAppTuan1.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.Form1.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.Properties.Resources.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\learn\basic\lessonFirst\DeMoWinAppTuan1\obj\Debug\DeMoWinAppTuan1.pdb

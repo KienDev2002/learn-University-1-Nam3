@@ -1,0 +1,26 @@
+{% extends 'home/base.html' %}
+    {% block box %}
+	<h1>Home page</h1>
+		<div class="box">
+				<h1 class="box__header">Inspection</h1>
+				<p class="box__body">
+					Mirum est notare quam littera gothica, quam nunc putamus parum claram.
+				</p>
+
+				<h1 class="box__money">$300.00</h1>
+
+				<ul class="box-content">
+					<li>Auto Product Liability</li>
+					<li>Crib Recall</li>
+					<li>Defective Airbags</li>
+					<li>Defective Medical Device</li>
+					<li>Food Poisoning</li>
+				</ul>
+				<button class="box-footer">Contact me</button>
+		</div>
+		<li class="header__item"> <a href="{% url 'home:home' %}">Home</a></li>
+        <li class="header__item"> <a href="{% url 'post:post' %}">Post</a></li>
+        <li class="header__item"> <a href="{% url 'contact:contact' %}">Contact</a></li>
+	{% endblock  %}
+
+
